@@ -1,0 +1,6 @@
+trained_model.mat = 6DOF RBF Kernel
+	Trained in 4.5hrs
+trained_model_turned.mat = 6DOF RBF Kernel, Standardized, true, Kernel scale, auto
+	Trained in 4.5hrs
+trained_model_opt.mat = 6DOF RBF Kernel, Solver, SMO
+	Trained in 2.5hrs
